@@ -1,0 +1,15 @@
+ChartDirector
+	https:
+GraPHPite
+	http:
+JpGraph
+	https:	Used composer packages:
+        https:        https:
+LibChart
+	https:
+pChart
+	http:
+TeeChart
+	https:
+PHPGraphLib
+    http:
